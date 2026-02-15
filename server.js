@@ -15,7 +15,7 @@ const app = express();
 app.use(cors({
   origin: [
     'http://localhost:3000',
-    'https://YOUR_USERNAME.github.io'
+    'https://akshumgarg.github.io'
   ],
   credentials: true
 }))
